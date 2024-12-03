@@ -18,7 +18,7 @@
     "height": 50,
     "position": "bottom",
     "layer": "top",
-    "output": "DP-3",
+    "output": "eDP-3",
     "mode": "dock",
     "exclusive": true,
     "passtrough": false,
@@ -41,5 +41,5 @@
     "margin-left": 10,
     "margin-bottom": 0,
     "margin-right": 10,
-  },V
-]
+  },
+];  
