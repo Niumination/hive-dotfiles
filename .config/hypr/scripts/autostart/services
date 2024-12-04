@@ -39,3 +39,5 @@ easyeffects --gapplication-service &
 
 # Input
 libinput-gestures &
+
+cliphist &

@@ -1,17 +1,17 @@
 [
   {
-    "include": "~/.config/waybar/bars/bar-1.jsonc",
-    "height": 50,
+    "include": "~/.config/waybar/bars/bar-2.jsonc",
+    "height": 5,
     "layer": "top",
     "output": "eDP-1",
     "mode": "dock",
     "exclusive": true,
     "passtrough": false,
     "gtk-layer-shell": true,
-    "margin-top": 10,
-    "margin-left": 10,
+    "margin-top": 2,
+    "margin-left": 2,
     "margin-bottom": 0,
-    "margin-right": 10,
+    "margin-right": 2,
   },
   {
     "include": "~/.config/waybar/bars/bar-2.jsonc",
